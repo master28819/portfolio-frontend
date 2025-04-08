@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+Commands : 
+
+nvm install 18
+nvm use 18
